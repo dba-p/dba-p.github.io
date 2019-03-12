@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
-title: "P. Bickerdyke, DBA"
+
+site:
+  title: "P. Bickerdyke, DBA"
