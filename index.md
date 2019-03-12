@@ -15,3 +15,9 @@ Email me now on: **lqsym@dbap.pro**
 <center>
   <img src="/db.gif" />
 </center>
+
+<style>
+  header h1:before {
+    content: "MySQL> ";
+  }
+</style>
