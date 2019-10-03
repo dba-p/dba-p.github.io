@@ -10,6 +10,8 @@ Look no further - Tall Paul can help!
 
 Email me now on: **lqsym@dbap.pro**
 
+*Update:* Currently looking for a new challenge. Email me if you have any old databases that need the kiss of life.
+
 <br>
 
 <center>
