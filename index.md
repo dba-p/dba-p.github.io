@@ -8,7 +8,9 @@ Does your database run slow? Queries out of control?
 
 Look no further - Tall Paul can help!
 
-Email me now on: **lqsym@dbap.pro**
+Email me now on: **increase-that-buffer-pool@dbap.pro**
+
+*New:* Now an expert in Oracle Databasing!
 
 *Update:* Currently looking for a new challenge. Email me if you have any old databases that need the kiss of life.
 
