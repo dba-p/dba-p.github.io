@@ -14,6 +14,8 @@ Email me now on: **increase-that-buffer-pool@dbap.pro**
 
 *Update:* Currently looking for a new challenge. Email me if you have any old databases that need the kiss of life.
 
+*Newer:* I'm a god at Google Cloud Platform now! Send me all your spanners!
+
 <br>
 
 <center>
